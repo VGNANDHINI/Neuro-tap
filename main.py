@@ -21,4 +21,4 @@ if audio_file is not None:
 
     # Just dummy prediction for now
     risk_score = np.random.choice(["Low", "Moderate", "High"])
-    st.success(f"🧪 Predicted Parkinson's Risk: {risk_score}"
+    st.success(f" Predicted Parkinson's Risk: {risk_score}")
