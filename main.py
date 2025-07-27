@@ -3,7 +3,7 @@ import numpy as np
 import librosa
 import matplotlib.pyplot as plt
 
-st.title("🧠 NeuroTap: Parkinson’s Detection")
+st.title(" NeuroTap: Parkinson’s Detection")
 
 st.markdown("Upload your voice sample below:")
 
