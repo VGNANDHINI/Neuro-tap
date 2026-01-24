@@ -1,0 +1,26 @@
+{
+  "name": "parkinsons-api-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js integration for Parkinson's Disease Prediction ML API",
+  "main": "express-server.js",
+  "scripts": {
+    "start": "node express-server.js",
+    "dev": "nodemon express-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "parkinsons",
+    "ml",
+    "api",
+    "healthcare"
+  ],
+  "author": "",
+  "license": "MIT"
+}

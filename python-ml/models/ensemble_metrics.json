@@ -1,0 +1,1 @@
+{"accuracy": 1.0, "roc_auc": 1.0, "model_weights": {"svm": 2, "rf": 2, "gb": 2, "lr": 1, "nb": 1}}
